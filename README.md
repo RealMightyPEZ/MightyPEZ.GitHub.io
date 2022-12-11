@@ -1,1 +1,1 @@
-# MightyPEZ.gethub.io
+# MightyPEZ.github.io
